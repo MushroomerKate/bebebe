@@ -1,0 +1,5 @@
+Dry 15.3 0.11
+Perishable 22.7 0
+BreakBulk 27 0.3
+Pepe 100 0.05
+Sssss 123 0.22
